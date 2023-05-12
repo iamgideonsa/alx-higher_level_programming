@@ -25,3 +25,6 @@ This project was done during **ALX SE Studies** at **ALX School**. The end game 
 | `12-switch.py` | Switches value of `a` and `b` |
 | `13-is_palindrome.c` | Checks if a singly linked list is a palindrome |
 | `100-print_python_list_info.c` | C function that prints some basic info about Python lists |
+
+## Author:
+### Gideon Selorm Attakpah: [@iamgideonchrist](https://github.com/iamgideonchrist)
