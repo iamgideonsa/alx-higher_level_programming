@@ -1,4 +1,4 @@
-# Data Structures: Lists, Tuples
+# 0x04. Python - More Data Structures: Set, Dictionary
 
 This project was done during **ALX SE Studies** at **ALX School**. The end game is to know about sets, dictionaries, and functions to handle data structures like lambda, map, reduce, and filter in **Python**.
 
